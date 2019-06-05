@@ -27,6 +27,7 @@ job_environments:
     GCLOUD_CLUSTER: planet4-production
     GOOGLE_PROJECT_ID: planet4-production
     HELM_NAMESPACE: taiwan
+    MIN_REPLICA_COUNT: 1
     MAX_REPLICA_COUNT: 1
     HELM_RELEASE: planet4-taiwan-release
     NEWRELIC_APPNAME: P4 Taiwan Release
