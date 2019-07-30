@@ -3,8 +3,8 @@
 	"description": "Greenpeace P4 Taiwan",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-taiwan" : "dev-develop",
-		"greenpeace/planet4-gpea-plugin-blocks": "dev-develop",
+		"greenpeace/planet4-child-theme-taiwan" : "0.5.8",
+		"greenpeace/planet4-gpea-plugin-blocks": "0.3.6",
 		"greenpeace/planet4-plugin-migrated-urls": "0.0.1"
 	},
 	"scripts": {
