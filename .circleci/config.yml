@@ -12,7 +12,7 @@ docker_auth: &docker_auth
 
 defaults: &defaults
   docker:
-    - image: greenpeaceinternational/p4-builder:latest
+    - image: greenpeaceinternational/p4-builder:just-some-logging
       auth: &docker_auth
 
 orbs:
